@@ -33,11 +33,14 @@ header,
 }
 
 
-.row {
+.row, .faqborder {
 	    margin-right: 25px;
     margin-left: 25px;
 }
 
+.pddng16u {
+	padding-top: 16px;
+}
 
 
 .heading {
