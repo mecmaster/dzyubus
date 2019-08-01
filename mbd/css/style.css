@@ -43,6 +43,11 @@ header,
 }
 
 
+.passport {
+	color: white;
+	text-align: left;
+}
+
 .heading {
   font-weight: 700;
   color: #5d4267;
