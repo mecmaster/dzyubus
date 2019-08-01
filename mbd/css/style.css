@@ -42,7 +42,9 @@ header,
 	padding-top: 16px;
 }
 
-
+.awhite {
+	color: white;
+}
 
 .passport {
 	color: white;
